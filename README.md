@@ -118,9 +118,9 @@ Quick look at some examples
 - Question Answering
 - Chat - we'll look at The following for semantic kernel 
 
-![Demystifying Retrieval Augmented Generation with .NET](https://devblogs.microsoft.com/dotnet/demystifying-retrieval-augmented-generation-with-dotnet)
+Look at these code samples
 
-
+- [Demystifying Retrieval Augmented Generation with .NET](https://devblogs.microsoft.com/dotnet/demystifying-retrieval-augmented-generation-with-dotnet)
 - [good example of bringing it all together with langchain](https://learn.deeplearning.ai/langchain-chat-with-your-data/lesson/7/chat)
 
 ## References
@@ -131,3 +131,4 @@ Quick look at some examples
 - [Semantic Kernel Memories Embeddings](https://learn.microsoft.com/en-us/semantic-kernel/memories/embeddings)
 - [Semantic Kernel Memories Vector Database](https://learn.microsoft.com/en-us/semantic-kernel/memories/vector-db)
 - [AI Course langchain chat with your data](https://learn.deeplearning.ai/langchain-chat-with-your-data)
+- [Demystifying Retrieval Augmented Generation with .NET](https://devblogs.microsoft.com/dotnet/demystifying-retrieval-augmented-generation-with-dotnet)
