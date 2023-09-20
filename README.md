@@ -76,7 +76,7 @@ Embeddings can be used with various types of data, including text, images, and a
 
 <!-- -![many data sources](https://python.langchain.com/assets/images/summarization_use_case_1-cdb1b94b53af261bd997a9934a8c3703.png) -->
 
-- ![Langchain document loaders](image.png)
+- ![Langchain document loaders](document-loaders.png)
 
 #### **Conclusion**
 - Utilizing documents, URLs, search results, and other information with LLMs for question-answering significantly broadens the scope and utility of the LLM. It becomes a versatile tool capable of handling a wide range of queries in various fields, leveraging a rich and diverse knowledge base for more informed and comprehensive responses.
