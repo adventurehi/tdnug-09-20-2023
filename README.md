@@ -100,7 +100,6 @@ Quick look at some examples
 - [Microsoft Semantic Kernel Github](https://github.com/microsoft/semantic-kernel)
 - [Langchain Github](https://github.com/langchain-ai/langchain)
 
-
 ## RAG - Retrieval Augmented Generation involves these steps
 
 - Document Loading
@@ -110,15 +109,17 @@ Quick look at some examples
 - Question Answering
 - Chat
 
-- Document Loaders - see image above
-- Document Splitting
-- Embeddings - [see animations here](https://openai.com/blog/introducing-text-and-code-embeddings))
-- Vector Stores
-- Retrieval -  ![combining](./images/test1.png)
-- Question Answering
-- Chat - we'll look at The following for semantic kernel 
+### Details
 
-Look at these code samples
+- Document Loaders - see image above
+- Document Splitting - note that there are many ways to do this that can affect results
+- Embeddings - [see animations here](https://openai.com/blog/introducing-text-and-code-embeddings))
+- Vector Stores - there are many with different pros and cons, abstract access in SK and Langchain
+- Retrieval -  ![combining](./images/test1.png)
+- Question Answering - prompt templates allow reuse and variable injections
+- Chat - needs memory 
+
+Look at the code samples associated with these items
 
 - [Demystifying Retrieval Augmented Generation with .NET](https://devblogs.microsoft.com/dotnet/demystifying-retrieval-augmented-generation-with-dotnet)
 - [good example of bringing it all together with langchain](https://learn.deeplearning.ai/langchain-chat-with-your-data/lesson/7/chat)
